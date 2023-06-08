@@ -13,3 +13,4 @@ export default function useInputs(initialForm) {
   };
   return [state, onChange];
 }
+ 
